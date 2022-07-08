@@ -9,4 +9,4 @@ La méthodologie de l'algorithme implémenté est détaillé dans le fichier alg
 
 Pour utiliser le projet, il faut taper cette ligne sur l'invite de commandes au niveau du dossier du projet : 
 
-    python3 dense.py < file1.gr
+    python3 dense.py < ./toyInstances/bastos.gr
